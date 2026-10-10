@@ -27,3 +27,5 @@ The project is configured for Chromium, Firefox, and WebKit. Install the matchin
 ```bash
 npx playwright install
 ```
+
+For Windows prerequisites and setup instructions, see [WINDOWS-SETUP.md](./WINDOWS-SETUP.md).
